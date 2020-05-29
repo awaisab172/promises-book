@@ -1302,10 +1302,10 @@ codemirror@^5.13.2, codemirror@^5.18.2:
   version "5.25.2"
   resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.25.2.tgz#8c77677ca9c9248d757d3a07ed1e89a8404850b7"
 
-codemirror@^5.46.0:
-  version "5.46.0"
-  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.46.0.tgz#be3591572f88911e0105a007c324856a9ece0fb7"
-  integrity sha512-3QpMge0vg4QEhHW3hBAtCipJEWjTJrqLLXdIaWptJOblf1vHFeXLNtFhPai/uX2lnFCehWNk4yOdaMR853Z02w==
+codemirror@^5.54.0:
+  version "5.54.0"
+  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.54.0.tgz#82b6adf662b29eeb7b867fe7839d49e25e4a0b38"
+  integrity sha512-Pgf3surv4zvw+KaW3doUU7pGjF0BPU8/sj7eglWJjzni46U/DDW8pu3nZY0QgQKUcICDXRkq8jZmq0y6KhxM3Q==
 
 collapse-white-space@^1.0.2:
   version "1.0.2"
