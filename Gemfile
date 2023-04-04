@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
-gem "asciidoctor"
+gem "asciidoctor", ">= 1.5.8"
 gem "coderay"
